@@ -1,3 +1,5 @@
+# Datum commit: 27-02-2026
+
 # Gemaakt door Kamran Mahmood,
 # Vak: Scripting with Python, Hoofdstuk 3 - Variables
 # Eigen oplossingen van de vijf oefeningen
@@ -241,4 +243,5 @@ print(type(program_keys))
 
 list_program_keys = list(program_keys)
 print(list_program_keys)
+
 print(type(list_program_keys))
